@@ -14,9 +14,6 @@
 
 # HW_Web_10_Django
  
-# Folder "NOTES":
- - just repeat example from lesson
-
 # Folder "QUOTEPAGES":
  Try to make copy of website 'http://quotes.toscrape.com.'
 
